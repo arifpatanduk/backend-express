@@ -1,0 +1,26 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "scripts": {
+    "api": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "rest",
+    "api"
+  ],
+  "author": "arifpatanduk",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

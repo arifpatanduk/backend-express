@@ -4,7 +4,7 @@
   "description": "backend",
   "main": "server.js",
   "scripts": {
-    "api": "node server.js"
+    "api": "nodemon server.js"
   },
   "keywords": [
     "express",
